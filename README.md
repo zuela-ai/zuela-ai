@@ -58,6 +58,6 @@ If you're interested in learning more about the importance of African languages 
 
 * [African Languages and Linguistics](dfad)
 * [Language and Development in Africa](dafd)
-* [The Role of African Languages in the Digital Age](dkfl j)
+* [The Role of African Languages in the Digital Age](dkflj)
 
 Thank you for our interest in zuela.ai. Together, we cadn promote linguistic diversity and empower African languages in the digital world!
