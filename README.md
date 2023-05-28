@@ -30,6 +30,7 @@ Please refer to our [Contributing Guidelines](dhfkh) for detailed information on
 2. __African NLP Toolkit:__ A comprehensive collection of NLP tools and resources tailored for African languages, including tokenizers, part-of-speech taggers, and named entity recognition models.
 3. __African Language Sentiment Analyisis__: Developing sentiment analysis models to understand the sentiment expressed in African languages, aiding in social media applications.
 4. __Language Technology for Low-Resource African Languages__: Researching and developing innovative approaches to address the challenges of low resource African languages, including transfer learning and data augmentation techniques.
+5. __Browser Plugins__
 
 Please visit our [Projects](dklfj) page for more details on ongoing and future initiatives.
 
